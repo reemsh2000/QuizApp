@@ -63,7 +63,6 @@ class _QuizState extends State<Quiz> {
               color: Colors.white,
             ),
           )),
-          backgroundColor: const Color.fromARGB(234, 9, 2, 56),
         ),
         body: Center(
           child: Column(
